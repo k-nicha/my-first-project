@@ -1,1 +1,1 @@
-fajl1.1
+test rebase step 3
